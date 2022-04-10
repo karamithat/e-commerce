@@ -31,3 +31,4 @@
 30 timing npm:load:timers Completed in 1ms
 31 timing npm:load:configScope Completed in 0ms
 32 timing npm:load Completed in 39ms
+33 silly logfile done cleaning log files
